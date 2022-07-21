@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DidItAgain.Proxy/1.0.0": {
+        "dependencies": {
+          "Yarp.ReverseProxy": "1.1.1"
+        },
+        "runtime": {
+          "DidItAgain.Proxy.dll": {}
+        }
+      },
+      "Yarp.ReverseProxy/1.1.1": {
+        "runtime": {
+          "lib/net6.0/Yarp.ReverseProxy.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.100.122.32901"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DidItAgain.Proxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yarp.ReverseProxy/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wR7xCSrej/i7IeN7WmT+0fb6J6Uyf1WV2TVtzqyOuzSG9rHuCRdVHe720/+OqfW5a0IDTXu7LdAkILPKrkmIVw==",
+      "path": "yarp.reverseproxy/1.1.1",
+      "hashPath": "yarp.reverseproxy.1.1.1.nupkg.sha512"
+    }
+  }
+}

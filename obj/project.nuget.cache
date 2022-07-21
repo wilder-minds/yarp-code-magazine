@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fy8E2eBN3HoUT+9QDD/rGVFHiwzNWR8+oDzTYE3JlhHUwG+RYJZfj8V2nPzx9Zon2Z9cervb/6tCYP5AF7WNgQ==",
+  "success": true,
+  "projectFilePath": "C:\\writing\\CoDeMag\\yarp\\Example\\DidItAgain.Proxy\\DidItAgain.Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shawn\\.nuget\\packages\\yarp.reverseproxy\\1.1.1\\yarp.reverseproxy.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
